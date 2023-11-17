@@ -1,17 +1,4 @@
 Hello. 
-
-
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<div class="green">
-    Markdown css styles
-</div>
 <!--
 **Shahir47/Shahir47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
